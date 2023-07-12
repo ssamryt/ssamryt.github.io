@@ -1,1 +1,5 @@
-# ssamryt.github.io
+# Data scientist
+
+## Education 
+
+## something goes here
